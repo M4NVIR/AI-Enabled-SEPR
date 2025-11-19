@@ -1,0 +1,4 @@
+modality,task,accuracy,precision,recall,f1_score
+ECG,Arrhythmia detection,0.958,0.961,0.947,0.953
+EMG,Gesture classification,0.914,0.925,0.907,0.915
+EEG,Drowsiness detection,0.872,0.884,0.861,0.87
